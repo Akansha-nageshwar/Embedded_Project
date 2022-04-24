@@ -1,0 +1,2 @@
+# Embedded_Project
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/724554d4beb1408bae63f6cad4424043)](https://app.codacy.com/gh/Akansha-nageshwar/Embedded_Project?utm_source=github.com&utm_medium=referral&utm_content=Akansha-nageshwar/Embedded_Project&utm_campaign=Badge_Grade_Settings)
